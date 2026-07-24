@@ -22,4 +22,4 @@ npm run dev
 
 ## Architecture
 
-Coming soon.
+On the way.
