@@ -22,4 +22,4 @@ npm run dev
 
 ## Architecture
 
-Coming soon.
+Coming soon. Initial project structure has been completed.
